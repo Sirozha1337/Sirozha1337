@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-💻 I'm a full stack web-developer currently working at AdsProDigital. 
+💻 I'm a full stack web-developer currently working at Aimed Global. 
 
 ⌛ Contributing to open-source projects and creating pet-projects in my spare time.
 
