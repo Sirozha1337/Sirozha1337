@@ -24,6 +24,4 @@
 
 ![Top Langs](./profile/top-langs.svg)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sirozha1337&theme=onedark&row=1)
-
 ![Sergey Chernyaev's GitHub stats](./profile/stats.svg)
