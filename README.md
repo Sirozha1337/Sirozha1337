@@ -22,8 +22,8 @@
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirozha1337&layout=compact&theme=dark)
+![Top Langs](./profile/top-langs.svg)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sirozha1337&theme=onedark&row=1)
 
-![Sergey Chernyaev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirozha1337&show_icons=true&theme=dark)
+![Sergey Chernyaev's GitHub stats](./profile/stats.svg)
